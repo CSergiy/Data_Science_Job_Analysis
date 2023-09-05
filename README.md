@@ -26,10 +26,15 @@ The project is divided into two Jupyter notebooks:
 The dataset used for this project is sourced from [Kaggle](https://www.kaggle.com/datasets/lukebarousse/data-analyst-job-postings-google-search), which contains Google search engine results for Data Analyst job postings in the United States. Data collection started on November 4th, 2022, and adds ~100 new job postings daily.
 
 ## Prerequisites
-To run this project, the following packages need to be installed. You can install them using pip:
-```
-pip install numpy pandas matplotlib seaborn nltk wordcloud
-```
+To run this project, the following packages need to be installed. 
+
+numpy 
+pandas 
+matplotlib 
+seaborn 
+nltk 
+wordcloud
+
 ## Results
 The project is still ongoing and results will be updated as progress is made.
 
@@ -47,11 +52,4 @@ The ultimate goal of this project is to provide a data-driven guide for individu
 For any queries, please feel free to reach out to me at sergiy12422@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/sergiy-chepiga/).
 
 
-```sh
-# For download_parallel_corpora.py
-pip install openpyxl gsutil translate-toolkit
 
-# For analyze and other scripts
-pip install xxhash matplotlib numpy pyyaml datasets
-
-```
