@@ -45,3 +45,13 @@ The ultimate goal of this project is to provide a data-driven guide for individu
 
 ## Contact
 For any queries, please feel free to reach out to me at sergiy12422@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/sergiy-chepiga/).
+
+
+```sh
+# For download_parallel_corpora.py
+pip install openpyxl gsutil translate-toolkit
+
+# For analyze and other scripts
+pip install xxhash matplotlib numpy pyyaml datasets
+
+```
